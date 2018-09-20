@@ -1,0 +1,104 @@
+.navbar {
+	width: 100%;
+	padding-left: 100px;
+
+	
+}
+
+.navbar ul{
+	list-style: none;
+	text-align: center;
+	font-size: 20px;
+
+
+}	
+
+
+
+.navbar li {
+	list-style: none;
+	display: block;
+	
+}
+
+
+.navbar li a {
+padding-left: 10px;
+
+	
+}
+
+.divider-vertical a {
+   height: 20px;
+   width: 2px;
+   margin: 0 5px;
+   overflow: hidden;
+   border-right: 1px solid blue;
+   padding-right: 20px;
+   padding-left: 20px;
+ 
+}
+	
+
+
+.icons li {
+	display: inline-block;
+	list-style: none;
+	margin:8px;
+}
+
+
+
+.icons {
+	list-style: none;
+	padding:0;
+}
+
+.top {
+	border-bottom: .5px solid black;
+	width: 100%;
+
+}
+
+
+.nav  {
+ padding-left: 525px;
+ border-top: .5px solid black;
+ width: 100%;
+}
+
+.nav li a {
+ padding-left: 15px;
+}
+
+main {
+	border-bottom: .5px solid black;
+	padding-bottom: 30px;
+
+}
+
+.container1 {
+	padding-top: 20px;
+	padding-left: 280px;
+	padding-right:280px;
+
+}
+
+/***Repo2 page***/
+
+.octicon {
+padding-top: 20px;s
+padding-left: 0px;
+}
+
+.placeholder {
+	width: 20%;
+	padding-bottom: 20px;
+
+}
+
+.create1 {
+	padding-bottom: 50px;
+}
+
+
